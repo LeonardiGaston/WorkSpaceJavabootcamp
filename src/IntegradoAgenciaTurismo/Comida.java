@@ -1,2 +1,4 @@
-package IntegradoAgenciaTurismo;public class Comida {
+package IntegradoAgenciaTurismo;
+
+public class Comida {
 }

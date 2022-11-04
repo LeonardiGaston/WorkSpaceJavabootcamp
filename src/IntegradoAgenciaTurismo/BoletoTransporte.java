@@ -1,2 +1,4 @@
-package IntegradoAgenciaTurismo;public class BoletoTransporte {
+package IntegradoAgenciaTurismo;
+
+public class BoletoTransporte {
 }

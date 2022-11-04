@@ -1,2 +1,4 @@
-package IntegradoAgenciaTurismo;public class Hotel {
+package IntegradoAgenciaTurismo;
+
+public class Hotel {
 }

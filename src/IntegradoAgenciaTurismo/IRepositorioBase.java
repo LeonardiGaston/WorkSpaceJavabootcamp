@@ -1,2 +1,4 @@
-package IntegradoAgenciaTurismo;public interface IRepositorioBase {
+package IntegradoAgenciaTurismo;
+
+public interface IRepositorioBase {
 }

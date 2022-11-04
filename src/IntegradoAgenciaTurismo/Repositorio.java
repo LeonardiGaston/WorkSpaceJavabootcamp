@@ -1,2 +1,4 @@
-package IntegradoAgenciaTurismo;public class Repositorio {
+package IntegradoAgenciaTurismo;
+
+public class Repositorio {
 }
